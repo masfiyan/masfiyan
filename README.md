@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/masfiyan/masfiyan/blob/main/2.png" width="100%">
+  <img src="https://github.com/masfiyan/masfiyan/blob/main/2.png" width="100%" height="200">
 </p>
 
 
