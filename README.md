@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Asfiyan Shivani</h1>
 <a href>
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=1000&lines=Chisel+HDL+%7C+3rd+Year+Software+Engineering+Student+%7C+Uniting+Tech%3A+Hardware+%26+Software+Enthusiast" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=1000&lines=Chisel+HDL+%7C+3rd+Year+Software+Engineering+Student+%7C+Uniting+Tech%3A+Hardware+%26+Software+Enthusiast" alt="Typing SVG" />
 </a>
 
 
