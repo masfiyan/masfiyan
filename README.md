@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Asfiyan Shivani</h1>
 <h3 align="center">3rd Year Software Engineering Student | Uniting Tech: Hardware & Software Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ae/05/da/ae05dab4896798bdac218b757cd79e8a.gif">
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/ae/05/da/ae05dab4896798bdac218b757cd79e8a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masfiyan&label=Profile%20views&color=0e75b6&style=flat" alt="masfiyan" /> </p>
 
