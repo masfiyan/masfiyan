@@ -34,13 +34,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JavaScript" width="40" height="40"/>
     <img src="https://icon-library.com/images/react-icon/react-icon-29.jpg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" alt="Vue.js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="Webpack" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="Babel" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 
