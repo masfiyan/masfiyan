@@ -37,10 +37,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40"/>
-
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
-
     <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" alt="Webpack" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="Babel" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
