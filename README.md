@@ -9,7 +9,9 @@
 </a>
 
 
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/ae/05/da/ae05dab4896798bdac218b757cd79e8a.gif">
+<!-- Make sure to replace the 'src' attribute with your actual GIF URL -->
+<img align="right" alt="coding" width="25%" style="max-width: 200px;" src="https://i.pinimg.com/originals/ae/05/da/ae05dab4896798bdac218b757cd79e8a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masfiyan&label=Profile%20views&color=0e75b6&style=flat" alt="masfiyan" /> </p>
 
@@ -23,9 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asfiyan-shivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfiyan-shivani" height="30" width="40" /></a>
-
-<a href="https://www.behance.net/asfiyan-shivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asfiyan-shivani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asfiyan-shivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfiyan-shivani" height="30" width="40" /></a><a href="https://www.behance.net/asfiyan-shivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asfiyan-shivani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
