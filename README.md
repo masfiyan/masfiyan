@@ -41,6 +41,14 @@
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+    <!-- Awesome Project Section -->
+<h3 align="left">Awesome Project:</h3>
+<p align="left">
+  <!-- Replace with a graphical representation of your "MAGMA-SI" project -->
+  <a href="https://github.com/merledu/magma-si">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=merledu&repo=magma-si&show_icons=true&theme=vue-dark" alt="MAGMA-SI Project" />
+  </a>
+</p>
 
    </p>
 
