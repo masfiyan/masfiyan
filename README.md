@@ -52,10 +52,24 @@
 
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masfiyan&show_icons=true&locale=en&layout=compact" alt="masfiyan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masfiyan&show_icons=true&locale=en" alt="masfiyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masfiyan&" alt="masfiyan" /></p>
+<table>
+  <tr>
+    <td>
+      <!-- Languages and Tools Section -->
+      <h3>Languages and Tools:</h3>
+      <p align="left">
+        <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
+        <!-- Add more icons for your skills -->
+      </p>
+    </td>
+    <td>
+      <!-- GitHub Stats Section -->
+      <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=masfiyan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+    </td>
+    <td>
+      <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=masfiyan&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+    </td>
+  </tr>
+</table>
 
 
