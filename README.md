@@ -1,6 +1,5 @@
-<a href align="center">
-  <img src="https://github.com/masfiyan/masfiyan/blob/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro(1).mp4" width="100%" height="150">
-</a>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 
 <h1 align="center">Hi 👋, I'm Asfiyan Shivani</h1>
