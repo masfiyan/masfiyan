@@ -1,5 +1,5 @@
 <a href>
-  <img align="center" src="https://github.com/masfiyan/masfiyan/blob/main/ezgif.com-gif-to-apng.png" alt="Typing SVG" style="width: 200%; height: auto;" />
+  <img align="center" src="https://github.com/masfiyan/masfiyan/blob/main/ezgif.com-gif-to-apng.png" alt="Typing SVG" style="width: 200%; height: 70%;" />
 </a>
 
 
