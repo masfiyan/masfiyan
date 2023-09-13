@@ -1,4 +1,6 @@
-[![Watch the video](video_thumbnail.png)](https://github.com/masfiyan/masfiyan/blob/main/Black%20%26%20Orange%20Simple%20Welcome%20To%20My%20Channel%20Youtube%20Intro(1).mp4)
+<a href>
+  <img align="center" src="https://github.com/masfiyan/masfiyan/blob/main/ezgif.com-gif-to-apng.png" alt="Typing SVG" />
+</a>
 
 
 
