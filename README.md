@@ -55,11 +55,12 @@
 </p>
 
    </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masfiyan&show_icons=true&locale=en&layout=compact" alt="masfiyan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masfiyan&show_icons=true&locale=en&layout=compact" alt="masfiyan" style="background-color: #87CEEB;" /></p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masfiyan&show_icons=true&locale=en" alt="masfiyan" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masfiyan&show_icons=true&locale=en" alt="masfiyan" style="background-color: #87CEEB;" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masfiyan&" alt="masfiyan" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masfiyan&" alt="masfiyan" style="background-color: #87CEEB;" /></p>
+
 
 
 
