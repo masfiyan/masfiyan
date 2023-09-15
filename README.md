@@ -1,3 +1,4 @@
+
 <a href>
   <img align="center" src="https://github.com/masfiyan/masfiyan/blob/main/ezgif.com-gif-to-apng.png" alt="Typing SVG" style="width: 100%; height: 50%;" />
 </a>
