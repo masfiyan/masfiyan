@@ -7,8 +7,6 @@
 </a>
 <!-- Make sure to replace the 'src' attribute with your actual GIF URL -->
 <img align="right" alt="coding" width="20%" style="max-width: 200px;" src="https://i.pinimg.com/originals/ae/05/da/ae05dab4896798bdac218b757cd79e8a.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masfiyan&label=Profile%20views&color=0e75b6&style=flat" alt="masfiyan" /> </p>
 
 - 🔭 I’m currently working on [MAGMA-SI](https://github.com/merledu/magma-si)
